@@ -43,8 +43,7 @@ misalnya:
 ```
 ls /u/l/dtra<TAB>
 ```
-
-    maka zsh akan melengkapi menjadi
+maka akan menjadi
 
 ```
 ls /usrl/ib/dtrace/
