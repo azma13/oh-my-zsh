@@ -43,7 +43,7 @@ misalnya:
 ```
 ls /u/l/dtra<TAB>
 ```
-maka akan menjadi
+  maka akan menjadi
 
 ```
 ls /usrl/ib/dtrace/
